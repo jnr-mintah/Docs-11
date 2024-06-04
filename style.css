@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body1{
+    height: 20rem;
+    width: 100%;
+    background: linear-gradient(0deg, rgba(78, 170, 28, 0.5) 0%, rgba(237,238,10,0.5) 57%),url(./522a75d4295723a604f9b488142330a3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+/* div{
+    height: 10rem;
+    width: 100%;
+    background-color: blue;
+} */
